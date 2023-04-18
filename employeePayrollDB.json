@@ -1,0 +1,43 @@
+{
+    "EmployeePayrollDB": [
+        {
+            "id": 1,
+            "_name": "Mark Taylor",
+            "_gender": "Male",
+            "_department": [
+                "HR",
+                "Sales",
+                "Fianance",
+                "Engineer"
+            ],
+            "_salary": "500000",
+            "_startDate": "29 Oct 2019",
+            "_note": "All In One",
+            "_profilePic": ".//ClientServerArchitecture/Ellipse -3.png"
+        },
+        {
+            "id": 2,
+            "_name": "Bill Gates",
+            "_gender": "male",
+            "_department": [
+                "Engineer"
+            ],
+            "_salary": "500000",
+            "_startDate": "29 Oct 2019",
+            "_note": "Terrific Engineer",
+            "_profilePic": ".//ClientServerArchitecture/Ellipse -8.png"
+        },
+        {
+            "_name": "Amarpa Shashanka Keerthi Kumar",
+            "_gender": "female",
+            "_department": [
+                "Sales"
+            ],
+            "_salary": "400000",
+            "_startDate": "29 Oct 2019",
+            "_note": "",
+            "_profilePic": ".//ClientServerArchitecture/Ellipse -1.png",
+            "id": 3
+        }
+    ]
+}
